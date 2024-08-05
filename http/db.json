@@ -1,0 +1,8 @@
+{
+    "todos": [
+      { "id": 1, "title": "Learn Node.js", "status": false },
+      { "id": 2, "title": "Learn Express.js", "status": false },
+      { "id": 3, "title": "Build a REST API", "status": false }
+    ]
+  }
+  
